@@ -1,0 +1,52 @@
+header {
+   background-color: black;
+   height: 40px;
+}
+
+ul {
+   list-style: none;
+   margin-top: 30px;
+}
+
+li {
+   display: inline;
+   padding-right: 40px;
+   font-size: 30px;
+}
+
+li a {
+   color: white;
+   text-decoration: none;
+}
+
+.slider-img {
+   width: 100%;
+   height: auto;
+}
+
+body {
+   background-color: rgb(59, 148, 170);
+   background-size: cover;
+}
+
+.image {
+   float: left;
+   width: 50px;
+   height: 100px;
+   padding-top: 75px;
+   padding-right: 50px;
+}
+
+p  {
+   column-count: 4;
+   column-rule: 2px solid black;
+   text-align: justify;
+}
+
+footer {
+   background-color: black;
+   height: 60px;
+   color: white;
+   text-align: center;
+   padding-top:3px;
+}
